@@ -5,7 +5,7 @@
   "main": "api.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node start.js --mode development --hot --open --port $PORT",
+    "start": "node start.js",
     "build": "npm i -dev && webpack --mode production",
     "heroku-postbuild": "npm build"
   },
