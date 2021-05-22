@@ -190,5 +190,5 @@ var js2xmlparser = require("js2xmlparser");
         eventos = novoVetor;
     });
 
-    app.listen(3000);
+    app.listen($PORT);
     console.log('A API está no ar');
