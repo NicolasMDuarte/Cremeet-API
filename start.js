@@ -49,7 +49,8 @@ var funcionarios = [
         foto: "https://th.bing.com/th/id/Rc779998ddca214bc31b2ea2d8545a2a2?rik=cY99%2bTxcwv6Z4w&pid=ImgRaw",
         idDepartamento: 2,
         idTime: 1,
-        idEquipe: 1
+        idEquipe: 1,
+        email: "nicolasmd9@hotmail.com"
     },
     {
         id: 2,
@@ -58,7 +59,8 @@ var funcionarios = [
         foto: "https://image.freepik.com/fotos-gratis/mulher-bonita-de-vestido-preto_1303-10795.jpg",
         idDepartamento: 1,
         idTime: 2,
-        idEquipe: 2
+        idEquipe: 2,
+        email: "nicolasmd9@gmail.com"
     },
     {
         id: 3,
@@ -67,7 +69,8 @@ var funcionarios = [
         foto: "https://th.bing.com/th/id/R7ede3fd5b3e23e1d8975bc51bb9681b4?rik=tgJH32CKcXiEPQ&riu=http%3a%2f%2f1.bp.blogspot.com%2f_xOec0zsYJ_M%2fTKIrkSMGleI%2fAAAAAAAAAB0%2fx_zQDVkOFrw%2fs1600%2fjoe-jonas-2010.jpg&ehk=Hqe2ZQq6CAYqqEfMpd24yoFzRf8dE3X29zStUBlAa1k%3d&risl=&pid=ImgRaw",
         idDepartamento: 1,
         idTime: 2,
-        idEquipe: 4
+        idEquipe: 4,
+        email: "cc19192@g.unicamp.br"
     },
     {
         id: 4,
@@ -76,7 +79,8 @@ var funcionarios = [
         foto: "https://th.bing.com/th/id/OIP.VHI7QC2HTrmDJy553wbxKwHaKr?pid=ImgDet&rs=1",
         idDepartamento: 3,
         idTime: 3,
-        idEquipe: 2
+        idEquipe: 2,
+        email: "email@gmail.com"
     },
     {
         id: 5,
@@ -85,7 +89,8 @@ var funcionarios = [
         foto: "https://www.dicasdemulher.com.br/wp-content/uploads/2020/03/cabelo-cacheado-loiro-18.jpg",
         idDepartamento: 4,
         idTime: 4,
-        idEquipe: 3
+        idEquipe: 3,
+        email: "email@hotmail.com"
     }
 ];
 var locais = [
