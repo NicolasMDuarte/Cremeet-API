@@ -50,7 +50,8 @@ var funcionarios = [
         idDepartamento: 2,
         idTime: 1,
         idEquipe: 1,
-        email: "nicolasmd9@hotmail.com"
+        email: "nicolasmd9@hotmail.com",
+        cel: "19992123095"
     },
     {
         id: 2,
@@ -60,7 +61,8 @@ var funcionarios = [
         idDepartamento: 1,
         idTime: 2,
         idEquipe: 2,
-        email: "nicolasmd9@gmail.com"
+        email: "nicolasmd9@gmail.com",
+        cel: "12345678912"
     },
     {
         id: 3,
@@ -70,7 +72,8 @@ var funcionarios = [
         idDepartamento: 1,
         idTime: 2,
         idEquipe: 4,
-        email: "cc19192@g.unicamp.br"
+        email: "cc19192@g.unicamp.br",
+        cel: "12345678912"
     },
     {
         id: 4,
@@ -80,7 +83,8 @@ var funcionarios = [
         idDepartamento: 3,
         idTime: 3,
         idEquipe: 2,
-        email: "email@gmail.com"
+        email: "email@gmail.com",
+        cel: "12345678912"
     },
     {
         id: 5,
@@ -90,7 +94,8 @@ var funcionarios = [
         idDepartamento: 4,
         idTime: 4,
         idEquipe: 3,
-        email: "email@hotmail.com"
+        email: "email@hotmail.com",
+        cel: "12345678912"
     }
 ];
 var locais = [
